@@ -12,7 +12,7 @@
   <ul>
     <li><strong>Frontend:</strong> React.js, HTML, CSS</li>
     <li><strong>Backend:</strong> Spring Boot, Java, REST APIs</li>
-    <li><strong>Database:</strong> Possibly PostgreSQL or MongoDB (please confirm)</li>
+    <li><strong>Database:</strong> PostgreSQL</li>
     <li><strong>Cloud Services:</strong> Cloudinary for image uploads</li>
   </ul>
 
@@ -20,9 +20,11 @@
   <ul>
     <li>User Registration and Login (JWT-based authentication)</li>
     <li>Create and View Posts (with Image upload)</li>
+    <li>Follow and Unfollow users</li>
     <li>Comment on Posts</li>
     <li>View User Profile</li>
     <li>View Home Feed</li>
+    <li>AI based Tag Recommendation</li>
   </ul>
 
   <h2>🌐 API Endpoints</h2>
